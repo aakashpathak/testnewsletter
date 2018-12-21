@@ -1,0 +1,16 @@
+.wrapper{
+	width:800px;
+	background:#fff;
+	margin: 0 auto 0 auto;
+}
+
+.heading{
+	height:100px;
+	background:lightblue;
+	padding:20px;
+	text-align: center;
+	font-family: cambria;
+	font-size:14pt;
+	color:darkblue;
+	border-radius:20px;
+}
