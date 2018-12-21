@@ -14,3 +14,27 @@
 	color:darkblue;
 	border-radius:20px;
 }
+.content{
+	min-height:50px;
+	background:darkgray;
+	padding:10px;
+	text-align: center;
+	font-family: cambria;
+	font-size:18pt;
+	color:white;
+	margin-top:10px;
+	margin-bottom:5px;
+	border-radius:10px;
+	
+}
+.anagram{
+	min-height:200px;
+	background:#ddd;
+	border-radius:20px;
+	padding:10px;
+	text-align: center;
+	font-family: cambria;
+	font-size:14pt;
+	color:black;
+}
+
